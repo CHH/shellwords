@@ -1,0 +1,12 @@
+{
+    "name": "chh/shellwords",
+    "description": "Lame port of Ruby's Shellwords.rb",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "CHH": "lib/"
+        }
+    }
+}
