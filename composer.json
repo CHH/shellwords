@@ -4,6 +4,7 @@
     "require": {
         "php": ">=5.3.3"
     },
+    "license": "MIT",
     "autoload": {
         "psr-0": {
             "CHH": "lib/"
